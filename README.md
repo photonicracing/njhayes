@@ -1,2 +1,2 @@
-# njhayes
+GitHub repository for njhayes' website.
  
